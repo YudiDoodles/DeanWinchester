@@ -12,7 +12,7 @@ file,ghost/master/menu.dice4bbeb1661981d1078a18ef23d761b96size=39450date=2023
 file,ghost/master/mouse.dic39b704320eb485b444843713116fc7dfsize=10044date=2023-12-23T21:41:30
 file,ghost/master/nameteach.dic901061f8e552ccccbaeff1d4a531fd88size=9025date=2023-12-23T22:10:14
 file,ghost/master/saori_cpuid.dlld13370aee8e579fe2517d789dba7c45esize=225280date=2004-04-17T17:47:18
-file,ghost/master/string.dica9c13b4243792ca6c98a0ad3e09baa16size=8689date=2023-12-24T15:04:45
+file,ghost/master/string.dicda451fbc35487bae0fd09b242769bd89size=8667date=2023-12-24T15:35:57
 file,ghost/master/word.dicf40c9d419aea8397ec5c77f888d0a35esize=9091date=2023-09-28T18:32:40
 file,ghost/master/yaya.dll56e3af56c88e696cea1f39d53b239cefsize=880640date=2022-09-10T16:18:59
 file,ghost/master/yaya.txt7d1ec0d0df1391cf10372d074406fb81size=1910date=2023-09-28T14:48:53
